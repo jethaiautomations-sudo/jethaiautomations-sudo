@@ -16,4 +16,4 @@ n8n · GoHighLevel · Make · Zapier · OpenAI · Gemini · Claude Code · Pytho
 Data operations team lead experienced in high-volume data work, quality checks, creating KPI dashboards (Power BI) and leading a team. Certified Data Analyst and SQL Associate (DataCamp), with automation training in n8n, GoHighLevel, Make and Zapier.
 
 ### Let's talk
-🌐 [Portfolio](https://jeth-automations.pages.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/jeth-d-b18459244/)
+🌐 [Portfolio](https://jeth-automations.pages.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/jethdivina/)
